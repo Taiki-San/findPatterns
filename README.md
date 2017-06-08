@@ -13,11 +13,16 @@ If a pattern is big enough, we look for patterns inside the patern, in which cas
 
 ## Example
 
-```ID 0xf0000023(refCount: 3)
+```
+[...]
+ID 0xf0000023(refCount: 3)
 0x434fd4
 0x43499f
 
 
 Code:
 
-0xf0000021```
+0xf0000021
+0x43445c
+[...]
+```
