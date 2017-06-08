@@ -11,7 +11,7 @@ Two sections, `Paterns:` where each patern found is written as `ID <patern ID, c
 The second section is simply `Code:` followed by numbers/instructions not in any pattern.
 If a pattern is big enough, we look for patterns inside the patern, in which case, if one is found, the output described earlier is repeated, inline indented one level deeper.
 
-##Example
+## Example
 
 ```ID 0xf0000023(refCount: 3)
 0x434fd4
